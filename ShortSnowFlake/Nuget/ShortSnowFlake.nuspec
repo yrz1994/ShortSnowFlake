@@ -1,0 +1,18 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>ShortSnowFlake</id>
+    <version>1.0.0</version>
+    <title>Simplified Snowflake Algorithm</title>
+    <authors>Endward</authors>
+    <owners>Endward</owners>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/yrz1994/ShortSnowFlake</projectUrl>
+    <icon></icon>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>调整雪花算法位数分布--牺牲单位时间吞吐量换取较短的ID长度（15位）</description>
+    <releaseNotes>.</releaseNotes>
+    <copyright>Copyright 2021</copyright>
+    <tags>SnowFlake</tags>
+  </metadata>
+</package>
