@@ -1,4 +1,6 @@
-# ShortSnowFlake
+# ShortSnowFlake 
+![MIT](https://img.shields.io/github/license/yrz1994/ShortSnowFlake?style=flat-square)
+[![Nuget](https://img.shields.io/nuget/v/ShortSnowFlake)](https://www.nuget.org/packages/ShortSnowFlake)
 
 ```C#
     /**
